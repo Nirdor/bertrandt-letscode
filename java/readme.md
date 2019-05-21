@@ -1,3 +1,0 @@
-# bertrandt-letscode
-
-## Java Implementierung
