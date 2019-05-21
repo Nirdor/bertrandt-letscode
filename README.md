@@ -26,5 +26,6 @@ Details dazu im jeweiligen Ordner.
 Wird das fertige Programm ausgeführt, ergibt sich folgende Lösung:
 
 Gesamtentfernung: 2.995687895999458
+
 Pfad: Erde -> node_810 -> node_595 -> node_132 -> node_519 -> node_71 -> node_432 -> b3-r7-r4nd7
 
